@@ -1,5 +1,12 @@
 # @ai-sdk/workflow
 
+## 2.0.21
+
+### Patch Changes
+
+- 82a16c9: fix(workflow): retain model files and sources in provider order across durable agent results and message history
+  - ai@7.0.90
+
 ## 2.0.20
 
 ### Patch Changes

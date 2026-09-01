@@ -1,5 +1,11 @@
 # @ai-sdk/anthropic
 
+## 4.0.48
+
+### Patch Changes
+
+- 4d25a08: feat(anthropic): add fable 5.1 support
+
 ## 4.0.47
 
 ### Patch Changes

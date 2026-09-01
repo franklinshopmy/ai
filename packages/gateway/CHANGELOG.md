@@ -1,5 +1,11 @@
 # @ai-sdk/gateway
 
+## 4.0.72
+
+### Patch Changes
+
+- 4d25a08: feat(anthropic): add fable 5.1 support
+
 ## 4.0.71
 
 ### Patch Changes
